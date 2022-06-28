@@ -1,2 +1,3 @@
-# Attendance
- Attendance software for EUI
+# Attendance System
+ Attendance software for EUI 
+
